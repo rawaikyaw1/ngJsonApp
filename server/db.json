@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "full_name": "ab ok",
+      "phone_number": "32424",
+      "email": "mail@mail.com",
+      "password": "123123",
+      "id": 2
+    },
+    {
+      "full_name": "aeiou",
+      "phone_number": "bce",
+      "email": "aio@mail.com",
+      "password": "342424",
+      "id": 5
+    },
+    {
+      "full_name": "three",
+      "phone_number": "ok the",
+      "email": "three@mail.com",
+      "password": "123123123",
+      "id": 6
+    },
+    {
+      "full_name": "ok dta",
+      "phone_number": "2314",
+      "email": "ok@mail.com",
+      "password": "good",
+      "id": 7
+    },
+    {
+      "full_name": "ad",
+      "phone_number": "vv",
+      "email": "eugenia.nienow@example.org",
+      "password": "2143424",
+      "id": 8
+    }
+  ]
+}
